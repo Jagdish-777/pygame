@@ -152,3 +152,5 @@ while run:
     player(playerx, playery)
     show_score(textx,texty)
     pygame.display.update()
+    
+ Thank you
